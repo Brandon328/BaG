@@ -55,10 +55,6 @@ main .girl-3-url{
   align-self: start;
 }
 
-main .boy-3-url{
-  grid-row: 28 / 33;
-  align-self: start;
-}
 
 /************HOVER PICTURES**********/
 .pictures div:hover{
