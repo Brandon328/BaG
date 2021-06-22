@@ -193,10 +193,12 @@ main .boy-2-url{
 
 main .girl-1-url{
   grid-column: 8 / 9;
-  grid-row: 29 / 33;
+  grid-row: 7 / 29;
   writing-mode: vertical-rl;
+  align-self: center;
   justify-self: end;
   font-size: 0.8vh;
+  color: var(--gray);
 }
 
 
