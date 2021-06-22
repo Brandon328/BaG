@@ -136,7 +136,7 @@ main .boy-1-url{
   writing-mode: vertical-rl;
   justify-self: end;
   align-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .girl-2-url{
@@ -144,7 +144,7 @@ main .girl-2-url{
   grid-row: 22 / 33;
   writing-mode: vertical-rl;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .girl-3-url{
@@ -153,7 +153,7 @@ main .girl-3-url{
   writing-mode: vertical-rl;
   align-self: end;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .girl-3-url{
@@ -162,7 +162,7 @@ main .girl-3-url{
   writing-mode: vertical-rl;
   align-self: end;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .city-url{
@@ -171,7 +171,7 @@ main .city-url{
   writing-mode: vertical-rl;
   align-self: end;
   justify-self: center;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .boy-3-url{
@@ -180,7 +180,7 @@ main .boy-3-url{
   writing-mode: vertical-rl;
   align-self: end;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .boy-2-url{
@@ -188,7 +188,7 @@ main .boy-2-url{
   grid-row: 24 / 33;
   writing-mode: vertical-rl;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 main .girl-1-url{
@@ -196,7 +196,7 @@ main .girl-1-url{
   grid-row: 29 / 33;
   writing-mode: vertical-rl;
   justify-self: end;
-  font-size: 1vh;
+  font-size: 0.8vh;
 }
 
 
