@@ -1,0 +1,67 @@
+.pictures{
+  width: 60%;
+  height: 80%;
+}
+
+.legend{
+  align-self: end;
+  justify-self: end;
+}
+
+.legend div:nth-child(2){
+  justify-self: end;
+  margin-bottom: 12px;
+}
+
+.legend div:nth-child(2) p{
+  text-align: end;
+}
+
+.legend div:nth-child(2) p:nth-child(1){
+  order: 1;
+}
+
+.legend::after{
+  content: '';
+  width: 50vh;
+  height: 2px;
+  background-color: black;
+  align-self: center;
+  justify-self: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container::after{
+  content: '';
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+  width: 35vh;
+  height: 2px;
+  background-color: black;
+  align-self: end;
+  justify-self: end;
+}
+
+/**********URL***************/
+
+main .boy-1-url{
+  grid-row: 26 / 33;
+  align-self: start;
+}
+
+main .girl-3-url{
+  grid-row: 27 / 33;
+  align-self: start;
+}
+
+main .boy-3-url{
+  grid-row: 28 / 33;
+  align-self: start;
+}
+
+/************HOVER PICTURES**********/
+.pictures div:hover{
+  transform: scale(1.2);
+  transition: 0.3s;
+}
