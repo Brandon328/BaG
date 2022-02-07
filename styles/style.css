@@ -48,7 +48,7 @@ main .pictures {
 }
 
 .pictures .boy-1 {
-  background: url('../img/boy-1.jpg');
+  background: url('BaG/img/boy-1.jpg');
   background-repeat: no-repeat;
   background-position: 59%;
   background-size: cover;
@@ -58,7 +58,7 @@ main .pictures {
 }
 
 .pictures .girl-2 {
-  background: url('../img/girl-2.jpg');
+  background: url('BaG/img/girl-2.jpg');
   background-repeat: no-repeat;
   background-position: 32%;
   background-size: cover;
@@ -68,7 +68,7 @@ main .pictures {
 }
 
 .pictures .girl-3 {
-  background: url('../img/girl-3.jpg');
+  background: url('BaG/img/girl-3.jpg');
   background-repeat: no-repeat;
   background-position: 43%;
   background-size: cover;
@@ -78,7 +78,7 @@ main .pictures {
 }
 
 .pictures .city-part {
-  background: url('../img/city.jpg');
+  background: url('BaG/img/city.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -99,7 +99,7 @@ main .pictures {
 
 
 .pictures .boy-3 {
-  background: url('../img/boy-3.png');
+  background: url('BaG/img/boy-3.png');
   background-repeat: no-repeat;
   background-position: 69%;
   background-size: cover;
@@ -109,7 +109,7 @@ main .pictures {
 }
 
 .pictures .boy-2 {
-  background: url('../img/boy-2.jpg');
+  background: url('BaG/img/boy-2.jpg');
   background-repeat: no-repeat;
   background-position: 62%;
   background-size: cover;
@@ -119,7 +119,7 @@ main .pictures {
 }
 
 .pictures .girl-1 {
-  background: url('../img/girl-1.jpg');
+  background: url('BaG/img/girl-1.jpg');
   background-repeat: no-repeat;
   background-position: 31%;
   background-size: cover;
